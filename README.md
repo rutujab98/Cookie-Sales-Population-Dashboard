@@ -113,8 +113,7 @@ This project combines cookie sales data with real-time web data on country popul
 
 ## 🖼️ Dashboard Snapshot
 
-![Dashboard Preview](dashboard_screenshot.png)  
-*Include a screenshot of the Power BI dashboard here once uploaded.*
+![Dashboard Preview](dashboard_screenshot.png)
 
 ---
 
