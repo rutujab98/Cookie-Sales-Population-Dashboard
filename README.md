@@ -113,23 +113,11 @@ This project combines cookie sales data with real-time web data on country popul
 
 ## 🖼️ Dashboard Snapshot
 
-![Dashboard Preview](insert-screenshot-path.png)  
+![Dashboard Preview](dashboard_screenshot.png)  
 *Include a screenshot of the Power BI dashboard here once uploaded.*
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 CookieSalesPopulationDashboard/
- ┣ 📄 README.md
- ┣ 📊 Cookie_Sales_Population.pbix
- ┣ 📸 dashboard_screenshot.png
- ┣ 📁 data/
- ┃ ┗ Cookie Types.xlsx
- ┗ 📁 docs/
-   ┗ Performance Dashboard (Cookie Type & Web data).pdf
-```
 ## 📌 Conclusion
 
 This Power BI dashboard showcases how internal product data can be enhanced by web-sourced public data to identify performance trends and growth opportunities. The use of real-time population data offers a market-aware perspective for sales analysis.
